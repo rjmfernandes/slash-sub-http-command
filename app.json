@@ -1,0 +1,30 @@
+{
+    "id": "53ee6ea1-61ef-4fbf-b4b3-fb91b63dbd65",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rui Fernandes",
+        "homepage": "rocket.chat",
+        "support": "rocket.chat"
+    },
+    "name": "Slash Sub Http Command",
+    "nameSlug": "slash-sub-http-command",
+    "classFile": "SlashSubHttpCommandApp.ts",
+    "description": "Generic slash command for configuring subcommands for quickly calling configured HTTP calls",
+    "implements": [],
+    "permissions": [
+        {
+            "name": "slashcommand"
+        },
+        {
+            "name": "message.write"
+        },
+        {
+            "name": "networking"
+        },
+        {
+            "name": "server-setting.read"
+        }
+    ]
+}

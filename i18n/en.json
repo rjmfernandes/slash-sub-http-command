@@ -1,0 +1,8 @@
+{
+    "slash_sub_http_command_configuration_json": "Configuration JSON",
+    "slash_sub_http_command_configuration_json_desc": "JSON configuration of URL subcommands.",
+    "slash_sub_http_command_configuration_param": "The subcommand name and values for your placeholders",
+    "slash_sub_http_command_configuration_description": "Executes predefined HTTP call.",
+    "slash_sub_http_command_main_name": "Main name",
+    "slash_sub_http_command_main_name_desc": "The main name for your slash command"
+}
